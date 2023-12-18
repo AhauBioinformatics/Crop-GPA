@@ -28,7 +28,7 @@ Run program
 ```$ python main.py```
 
 
-## Train Data
+## Training Data
 
 Data list
 
